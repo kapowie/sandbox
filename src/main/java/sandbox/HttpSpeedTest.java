@@ -1,4 +1,4 @@
-	package sandbox;
+package sandbox;
 
 import java.io.IOException;
 
